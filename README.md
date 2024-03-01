@@ -1,7 +1,7 @@
 Hi there 👋
 
 - 🔭 Aspiring to be a data engineer
-- :) Currently on a boot camp at Northcoders.
-- 🌱 I’m currently learning javascript, command-line, git and more
+- :) Fresh out of a bootcamp at northcoders
+- 🌱 Learnt a lot of Python, SQL, AWS services, javascript and much more 
 - 😄 Pronouns: he/him
 
